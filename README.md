@@ -1,6 +1,6 @@
 # 🧠 VITALYZ – Smart Health Monitoring & Predictive Risk System
 
-VITALYZ is an intelligent health monitoring system that combines wearable sensor data, real-time analytics, and machine learning to predict potential health risks such as heatstroke, organ stress, and dehydration. The system is designed to enable **preventive healthcare** by continuously analyzing physiological signals and providing actionable insights.
+I built this app during my internship at Qatar University where I worked under Dr. Kishor Kumar Sadasivuni. VITALYZ is an intelligent health monitoring system that combines wearable sensor data, real-time analytics, and machine learning to predict potential health risks such as heatstroke, organ stress, and dehydration. The system is designed to enable **preventive healthcare** by continuously analyzing physiological signals and providing actionable insights.
 
 ---
 
